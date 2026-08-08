@@ -1,0 +1,32 @@
+
+            form{border: 2px;
+                background-color: lightblue;
+                 padding:10px ;
+                margin-top: 15px;
+                margin-bottom: 15px; margin-left: 250px; margin-right:250px ;
+             text-align: left;
+            }
+             body{background-color: aliceblue;
+                 text-align: center;
+            }
+            h1{border: 2px;
+                 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                  padding: 15px;
+                  background-color: green;
+                  color: white;
+                }
+            h3{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                 color:white; 
+                 border: 2px; 
+                padding: 15px;
+                background-color: brown}
+            button{border: 7px; 
+                background-color: green;
+                color: aliceblue; 
+                padding: 10px;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+            font-weight: 900;
+          font-size: medium;
+        }
+
+       
